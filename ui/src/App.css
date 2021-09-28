@@ -1,0 +1,39 @@
+.App {  
+  margin-left: 50px;
+}
+
+.button1 {
+  border: 1px solid black;
+  border-radius: 5px;
+  height: 30px;
+  padding: 0px 32px 0px 32px;
+  margin-top: 10px;
+  margin-left: 195px;
+}
+
+.button2 {
+  border: 1px solid black;
+  border-radius: 5px;
+  height: 30px;
+  padding: 0px 24px 0px 24px;
+  margin-top: 5px;
+  margin-left: 180px;
+}
+
+.link {
+  color: blue; 
+  text-decoration: underline;
+}
+
+.listContainer {
+  height: 400px;
+  width: 600px;
+}
+
+.middleText1 {
+  margin-left: 35px;
+}
+
+.middleText2 {
+  margin-left: 80px;
+}
